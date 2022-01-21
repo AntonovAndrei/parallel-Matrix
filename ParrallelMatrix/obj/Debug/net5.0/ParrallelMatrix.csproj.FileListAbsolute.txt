@@ -1,0 +1,16 @@
+C:\Users\Андрей\RiderProjects\ParrallelMatrix\ParrallelMatrix\bin\Debug\net5.0\ParrallelMatrix.exe
+C:\Users\Андрей\RiderProjects\ParrallelMatrix\ParrallelMatrix\bin\Debug\net5.0\ParrallelMatrix.deps.json
+C:\Users\Андрей\RiderProjects\ParrallelMatrix\ParrallelMatrix\bin\Debug\net5.0\ParrallelMatrix.runtimeconfig.json
+C:\Users\Андрей\RiderProjects\ParrallelMatrix\ParrallelMatrix\bin\Debug\net5.0\ParrallelMatrix.runtimeconfig.dev.json
+C:\Users\Андрей\RiderProjects\ParrallelMatrix\ParrallelMatrix\bin\Debug\net5.0\ParrallelMatrix.dll
+C:\Users\Андрей\RiderProjects\ParrallelMatrix\ParrallelMatrix\bin\Debug\net5.0\ref\ParrallelMatrix.dll
+C:\Users\Андрей\RiderProjects\ParrallelMatrix\ParrallelMatrix\bin\Debug\net5.0\ParrallelMatrix.pdb
+C:\Users\Андрей\RiderProjects\ParrallelMatrix\ParrallelMatrix\obj\Debug\net5.0\ParrallelMatrix.csproj.AssemblyReference.cache
+C:\Users\Андрей\RiderProjects\ParrallelMatrix\ParrallelMatrix\obj\Debug\net5.0\ParrallelMatrix.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\Андрей\RiderProjects\ParrallelMatrix\ParrallelMatrix\obj\Debug\net5.0\ParrallelMatrix.AssemblyInfoInputs.cache
+C:\Users\Андрей\RiderProjects\ParrallelMatrix\ParrallelMatrix\obj\Debug\net5.0\ParrallelMatrix.AssemblyInfo.cs
+C:\Users\Андрей\RiderProjects\ParrallelMatrix\ParrallelMatrix\obj\Debug\net5.0\ParrallelMatrix.csproj.CoreCompileInputs.cache
+C:\Users\Андрей\RiderProjects\ParrallelMatrix\ParrallelMatrix\obj\Debug\net5.0\ParrallelMatrix.dll
+C:\Users\Андрей\RiderProjects\ParrallelMatrix\ParrallelMatrix\obj\Debug\net5.0\ref\ParrallelMatrix.dll
+C:\Users\Андрей\RiderProjects\ParrallelMatrix\ParrallelMatrix\obj\Debug\net5.0\ParrallelMatrix.pdb
+C:\Users\Андрей\RiderProjects\ParrallelMatrix\ParrallelMatrix\obj\Debug\net5.0\ParrallelMatrix.genruntimeconfig.cache
